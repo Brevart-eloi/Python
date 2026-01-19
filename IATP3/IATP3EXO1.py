@@ -4,7 +4,11 @@ if (nombre % 2) == 0:
 else:
     print("Le nombre ",nombre, "est impair")
 
+'''
+pour vider avant :
+document.body.innerHTML = "";
 
+'''
 '''
 code pour IATP3 partie web :
 const input = document.createElement('input');
