@@ -3,7 +3,7 @@ import IATP3EXO4_fonction
 num1 = 10
 num2 = 25
 num3 = 15
-max = maximum(num1, num2, num3)
+max = IATP3EXO4_fonction.maximum(num1, num2, num3)
 print("Le maximum de", num1, ",", num2, ",", num3, "est :", max)
 
 
